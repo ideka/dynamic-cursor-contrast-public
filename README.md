@@ -1,3 +1,3 @@
-# Dynamic Cursor Contrast
+# Dynamic Cursor Contrast v0.2.0-preview
 
-v0.1.1-preview
+Change your cursor contrast setting while in combat.
